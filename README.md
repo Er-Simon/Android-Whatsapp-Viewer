@@ -20,5 +20,5 @@ I file sono situati nei path seguenti:
 <h3>- Spostare i file msgstore.db e wa.db nella directory contenente lo script</h3>
 
 <h3>- Esegui lo script</h3>
-<pre>python3 whatsapp_viewer_v2.py</pre>
+<pre>python3 whatsapp_viewer.py</pre>
   
